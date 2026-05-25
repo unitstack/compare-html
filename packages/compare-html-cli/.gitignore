@@ -1,0 +1,6 @@
+node_modules
+dist
+.coverage
+.tmp-e2e
+e2e/.tmp-mcp
+.tmp-test
