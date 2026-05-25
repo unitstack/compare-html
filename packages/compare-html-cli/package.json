@@ -1,13 +1,18 @@
 {
   "name": "@compare-html/cli",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HTML comparison Command Line Tool",
   "keywords": [
     "compare html",
     "html comparison",
     "html diff"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitstack/compare-html.git",
+    "directory": "packages/compare-html-cli"
+  },
   "bin": {
     "compare-html": "./dist/cli.js"
   },
