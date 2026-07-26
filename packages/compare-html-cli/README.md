@@ -2,10 +2,6 @@
 
 A command-line tool for comparing HTML files or strings. Built on top of [@compare-html/core](https://www.npmjs.com/package/@compare-html/core).
 
-## Online Playground
-
-Try it out at [https://comparehtml.com](https://comparehtml.com)
-
 ## Installation
 
 ```bash

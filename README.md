@@ -2,8 +2,6 @@
 
 A toolkit for **structured HTML comparison** — find what changed between two HTML documents, with control over how elements, attributes, and child nodes are matched.
 
-> Online playground: **[comparehtml.com](https://comparehtml.com)**
-
 ## Why
 
 Most HTML diff tools either output unstructured text or hide the parts that matter (where an element was added, whether an array differs in order or in content). `compare-html` parses HTML into a structured representation and returns a list of differences — every entry carries a path, the side it belongs to (`base` / `contrast` / `both`), and the kind of change (`added`, `deleted`, `valueChanged`) — so you can render, filter, or program against it.
