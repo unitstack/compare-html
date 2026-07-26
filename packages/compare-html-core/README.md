@@ -2,10 +2,6 @@
 
 A lightweight library for deep comparison of HTML structures. Parses HTML into virtual nodes (VNode) and detects additions, removals, and value changes between two HTML documents with structural awareness.
 
-## Online Playground
-
-Try it out at [https://comparehtml.com](https://comparehtml.com)
-
 ## Installation
 
 ```bash

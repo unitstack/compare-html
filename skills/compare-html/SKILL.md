@@ -7,10 +7,6 @@ description: Compare two HTML files or strings and identify the differences (add
 
 Use `npx @compare-html/cli` to compare two HTML values and identify their differences.
 
-## Online Playground
-
-Try it out at [https://comparehtml.com](https://comparehtml.com)
-
 ## Usage
 
 ```bash
